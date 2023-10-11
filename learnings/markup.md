@@ -1,7 +1,17 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
-Examples/Snippets provided from my first team project [Quantum Quirk Inc](fac29a.github.io/QuantumQuirkInc./)
+Examples/Snippets provided from my first team project [Quantum Quirk Inc](fac29a.github.io/QuantumQuirkInc./).
+![image](https://github.com/FAC29A/Daniel-portfolio/assets/113857314/f40c7f7e-eb15-4e99-8828-e5e0d3a7b318)
+
+The above code demonstrates our use of semantic HTML in order to create a functioning form for our projects page. In addition to this elements such as:
+- `<h1>, <h2>, <h3> and more`: were used to show the hierarchy of headings for different sections of the page.
+- `<section>`: This was frequently used to show the different sections of the page and also used as a container for them.
+- `<input type="text" placeholder="Name">, <input type="email" placeholder="Email">`: Used for the form section of the page, with the displayed attributes for ease of use. 
+
 
 ## 2. Ensure a web page is readable for screen readers
+
+With screen reader users in mind, we used the following to ensure it was readable:
+- 
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 

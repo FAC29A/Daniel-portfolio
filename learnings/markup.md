@@ -1,5 +1,6 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
 Examples/Snippets provided from my first team project [Quantum Quirk Inc](fac29a.github.io/QuantumQuirkInc./).
+
 ![image](https://github.com/FAC29A/Daniel-portfolio/assets/113857314/f40c7f7e-eb15-4e99-8828-e5e0d3a7b318)
 
 The above code demonstrates our use of semantic HTML in order to create a functioning form for our projects page. In addition to this elements such as:
